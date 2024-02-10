@@ -1,5 +1,5 @@
 {
-  "name": "openzeppelin-msc",
+  "name": "openzeppelin-upgradeable-msc",
   "description": "Secure Smart Contract library for Solidity",
   "version": "1.0.0",
   "files": [
