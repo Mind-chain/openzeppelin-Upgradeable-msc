@@ -1,7 +1,7 @@
 {
   "name": "openzeppelin-upgradeable-msc",
   "description": "Secure Smart Contract library for Solidity",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "files": [
     "/contracts/**/*.sol",
     "/build/contracts/*.json",
@@ -35,7 +35,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable.git"
+    "url": "https://github.com/Mind-chain/openzeppelin-upgradeable-msc"
   },
   "keywords": [
     "solidity",
